@@ -2,11 +2,14 @@
 Take github repo using git clone to your local
 
 Go inside the folder
+
 Do bundle
+
 run rspec string_calculator_spec.rb
 
 ## Importane files to check -
 string_calculator.rb
+
 string_calculator_spec.rb
 
 # Note
